@@ -1,7 +1,7 @@
 # miflash_usb3.0_only
 ##尝试使用更改USBFlag方式使用USB 3.0
 ###辣鸡miflash无法在USB3.0的Windows上~~完美运行~~（完美不运行
-于是在XDA上找了一堆资料后通过魔改USBFlags的方式部分解决问题
+于是在XDA上找了一堆资料后通过魔改(瞎搞)USBFlags的方式部分解决问题
 ~~（这个问题在8.1上就出现过.....是Windows和USB3.0的锅）~~
 下载bat文件执行即可，目前未见副作用
 若出现拒绝访问请使用管理员权限
